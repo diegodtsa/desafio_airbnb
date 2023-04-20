@@ -1,0 +1,18 @@
+{
+  "name": "desafio_airbnb",
+  "version": "1.0.0",
+  "description": "Desafio Site Airbnb",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000 tests/test.js"
+  },
+  "keywords": [],
+  "author": "Diego Teixeira",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chromedriver": "^112.0.0",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.8.2"
+  }
+}
